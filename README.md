@@ -3,6 +3,5 @@
 - [x] Get
 - [x] Post
 - [x] Delete
-- [ ] Put 
+- [x] Receita extra
 - [ ] Publicar o site no Heroku
-- [ ] So se der tempo como extra, colocar imagens na API
