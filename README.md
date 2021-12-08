@@ -4,4 +4,8 @@
 - [x] Post
 - [x] Delete
 - [x] Receita extra
-- [ ] Publicar o site no Heroku
+- [x] Publicar o site no Heroku
+
+URL da API:
+- backend:
+https://serene-sands-20198.herokuapp.com/api/receitas/
